@@ -1,0 +1,37 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and results
+*.log
+*.out
+*.err
+results/
+output_results_*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets (keep them local, not on GitHub)
+data_folder/
+*.csv
+*.zip
+*.tar
+*.gz
