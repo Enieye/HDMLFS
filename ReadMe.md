@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 
 ## Repository Structures 
-
+```
 HDMLFS/
 │── data_folder/ # Raw and processed datasets
 │ ├── NSL-KDD/ # Downloaded NSL-KDD dataset
@@ -106,3 +106,4 @@ HDMLFS/
 │
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation (this file)
+```
